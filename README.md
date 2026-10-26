@@ -123,6 +123,13 @@ To customize the demo password locally, create a `.env.local` file:
 VITE_DEMO_PASSWORD=your_custom_password
 ```
 
+## 🚀 Deploying to GitHub Pages
+
+The site is deployed automatically when changes are pushed to `main`. In the repository, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**.
+
+Once the deployment workflow succeeds, the public site is available at:
+https://arfa8157-cyber.github.io/love-website/
+
 ---
 
 ## 🔒 Security & Privacy Notice
@@ -182,6 +189,6 @@ npm run preview
 3. **Interactive Flower Petals**: 3D WebGL / Three.js particle canvas where glass flower petals float interactively with mouse cursor movement.
 4. **Photo Timeline**: Allow couples to upload and view an interactive liquid glass memory photo carousel.
 "# love-website" 
-"# love-journey" 
+"# love-website" 
 "# love-website" 
 "# love-website" 
